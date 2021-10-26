@@ -1,0 +1,158 @@
+body {
+    width: 90%;
+    background-color:white;
+    
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: rgba(105, 98, 116, 0.282);
+}
+.home {
+    padding: 15px 0 0 15px;
+}
+.menu {
+    display: flex;
+    font-size: 40px;
+    margin:auto;
+}
+header {
+    list-style: none;
+}
+li {
+    margin-top: 30px;
+    margin-left: 250px;
+    text-align: center;
+    list-style: none;
+}
+.wrapper{
+    margin-left: 250px;
+    width: 80%;
+}
+.wrapper h2 {
+    font-size: 40px;
+ }
+.wrapper h3 {
+   font-size: 30px;
+}
+
+/*index.html*/
+.main {
+    margin-top: 250px;
+    font-size: 100px;
+    text-align: center;
+    color: red;
+}
+
+/*スキルファイル*/
+.skill h3 {
+    background: seagreen;
+    width: 10%;
+    padding: 20px;
+    border-radius: 30px;
+}
+.skill span1 {
+    padding-left: 10px;
+}
+.skill span2 {
+    padding-left: 20px;
+}
+.skill span3 {
+    padding-left: 5px;
+}
+.a {
+    display: flex;
+}
+.a p {
+    padding: 40px 0 0 30px;
+    font-size: 20px;
+
+}
+/*経歴ファイル*/
+.keireki {
+    padding-top: 30 0px;
+}
+.career {
+    margin-left: 250px;
+}
+
+/*作品ファイル*/
+aside {
+    width: 15%;
+    background:rgb(233, 228, 247);
+    height: 400px;
+    opacity: 0.8;
+}
+article {
+    width: 80%;
+}
+.main-content {
+    display:flex;
+    justify-content: space-between;
+    padding: 20px 0 0 15px;
+}
+.products h2 {
+    padding-left: 250px;
+}
+
+/*画像のモーショん*/
+img {
+    object-fit: cover;
+    max-height: 1600px;
+    max-width: 800px;
+    
+    
+}
+.item img {
+    height: 250px;
+    width: 350px;
+}
+.area {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 280px 280px;
+}
+.item p {
+    text-align: center;
+    line-height: 0;
+}
+a:hover {
+    opacity: 0.5;
+}
+
+/*画像*/
+.pic img {
+    width: 30px;
+    height: 100px;
+}
+.pic {
+    display: block;
+}
+article h1 {
+    font-size: 30px;
+
+}
+article h1 {
+    line-height: 0;
+}
+.explain {
+    width: 800px;
+    position: relative;
+}
+.info {
+    padding-top: 10px;
+    padding-bottom: 2px;
+    border-bottom: 5px #0bd solid;
+    max-width: 800px;
+}
+.info iframe {
+    padding-bottom: 50px;
+}
+.location {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+}
+
