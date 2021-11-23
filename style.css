@@ -121,6 +121,14 @@ article {
     padding-left: 250px;
 }
 
+.site {
+     width= 400px;
+     height= 300px; 
+     background: seagreen;
+     width: 10%;
+     padding: 20px;
+     border-radius: 30px;
+}
 /*画像のモーショん*/
 img {
     object-fit: cover;
