@@ -14,8 +14,9 @@ a:hover {
 }
 .menu {
     display: flex;
-    font-size: 20px;
+    font-size: 30px;
     margin:auto;
+    text-align:center;
 }
 header {
     list-style: none;
