@@ -39,11 +39,35 @@ li {
 }
 
 /*index.html*/
-.main {
-    margin-top: 250px;
-    font-size: 100px;
+/*index.html*/
+#background {
+    width: 125%;
+    height: 200px;
+    margin: 0;
+    padding: 100px 0;
+    position: relative;
+    top: 100px;
+    }
+    
+.main  {
+    width: 100%;
     text-align: center;
-    color: red;
+    font-size: 80px;
+ }
+#background p {
+    text-align: center;
+    font-size: 30px;
+}    
+#background::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #D1E28A;
+    transform: skewY(-4deg);
+    z-index: -1;
 }
 
 /*スキルファイル*/
