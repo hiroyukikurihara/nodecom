@@ -2,6 +2,8 @@ body {
     width: 90%;
     background-color:white;
     line-height:0;
+    position:relative;
+    left:-15px;
     
 }
 a {
@@ -41,7 +43,7 @@ li {
 
 /*index.html*/
 #background {
-    width: 110%;
+    width: 1450px;
     height: 200%;
     margin: 0;
     padding: 100px 0;
