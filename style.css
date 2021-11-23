@@ -14,9 +14,9 @@ a:hover {
 }
 .menu {
     display: flex;
-    font-size: 30px;
+    font-size: 25px;
     margin:auto;
-    text-align:center;
+    padding-left: 900px;
 }
 header {
     list-style: none;
