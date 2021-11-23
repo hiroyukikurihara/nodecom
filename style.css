@@ -12,20 +12,20 @@ a:hover {
 .home {
     padding: 15px 0 0 15px;
 }
-.menu {
-    display: flex;
-    font-size: 25px;
-    margin:auto;
-    padding-left: 900px;
-}
 header {
     list-style: none;
 }
 li {
     margin-top: 30px;
     margin-left: 50px;
-    text-align: center;
+    text-align: right;
     list-style: none;
+}
+.menu {
+    display: flex;
+    font-size: 25px;
+    margin:auto;
+    padding-left: 900px;
 }
 .wrapper{
     margin-left: 250px;
