@@ -43,8 +43,8 @@ li {
 
 /*index.html*/
 #background {
-    width: 1450px;
-    height: 200%;
+    width: 1800px;
+    height: 200px;
     margin: 0;
     padding: 100px 0;
     position: relative;
@@ -68,7 +68,7 @@ li {
     left: 0;
     right: 0;
     background-color: #D1E28A;
-    transform: skewY(-7deg);
+    transform: skewY(-5deg);
     z-index: -1;
 }
 
