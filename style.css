@@ -186,6 +186,7 @@ article h1 {
     display: flex;
     text-align: center;
     line-height: 0;
+    padding-left: 400px;
 }
 
 .site {
