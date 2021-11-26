@@ -179,8 +179,7 @@ article h1 {
     display: flex;
     max-width: 1100px;
 }
-.location p,
-.margin {
+.location p {
     display:flex;
     padding-left: 300px;
 }
