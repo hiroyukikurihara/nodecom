@@ -179,6 +179,9 @@ article h1 {
     display: flex;
     max-width: 1100px;
 }
+.location p{
+    padding-left: 1200px;
+}
 .margin {
     padding-left: 1200px;
 }
