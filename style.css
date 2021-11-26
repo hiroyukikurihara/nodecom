@@ -184,7 +184,6 @@ article h1 {
 }
 .margin {
     display: flex;
-    text-align: center;
     line-height: 0;
     padding-left: 700px;
 }
