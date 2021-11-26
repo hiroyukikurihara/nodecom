@@ -180,8 +180,7 @@ article h1 {
     max-width: 1100px;
 }
 .location p {
-  display:flex;
-    justify-content: space-between;
+  width: 50%;
 }
 
 .site {
