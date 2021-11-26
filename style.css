@@ -179,8 +179,9 @@ article h1 {
     display: flex;
     max-width: 1100px;
 }
-.location p {
-  width: 50%;
+.location li {
+  text-align: center;
+    
 }
 
 .site {
