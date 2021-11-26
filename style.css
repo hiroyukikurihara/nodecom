@@ -185,6 +185,7 @@ article h1 {
 .margin {
     display: flex;
     text-align: center;
+    line-height: 0;
 }
 
 .site {
