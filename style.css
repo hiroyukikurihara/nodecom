@@ -179,7 +179,7 @@ article h1 {
     display: flex;
     max-width: 1100px;
 }
-.location li {
+.location p {
     display:flex;
 }
 .margin {
