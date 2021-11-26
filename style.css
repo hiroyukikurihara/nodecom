@@ -182,7 +182,10 @@ article h1 {
 .location p {
     display:flex;
 }
-
+.margin {
+    display: flex;
+    text-align: center;
+}
 
 .site {
     background: rgb(233, 228, 247);
