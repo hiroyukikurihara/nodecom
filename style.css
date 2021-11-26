@@ -182,6 +182,9 @@ article h1 {
 .location p {
    padding-left: 300px;
 }
+.margin {
+    padding-left: 200px;
+}
 .site {
     background: rgb(233, 228, 247);
     width: 300px;
