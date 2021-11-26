@@ -177,7 +177,7 @@ article h1 {
 }
 .location {
     display: flex;
-    max-width: 1600px;
+    max-width: 1100px;
 }
 .location p {
     padding-left: 160px;
