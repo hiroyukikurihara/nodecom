@@ -181,7 +181,10 @@ article h1 {
 }
 .location p {
     display:flex;
-    padding-left: 300px;
+    padding-left: 250px;
+}
+.margin {
+padding-left: 100px;
 }
 
 .site {
