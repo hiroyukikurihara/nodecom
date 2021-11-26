@@ -181,10 +181,9 @@ article h1 {
 }
 .location p {
     display:flex;
+    padding-left: 500px;
 }
 .margin {
-    display: flex;
-    line-height: 0;
     padding-left: 400px;
 }
 
