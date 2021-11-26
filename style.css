@@ -181,6 +181,7 @@ article h1 {
 }
 .location p {
    text-align:center;
+   padding-left: 300px;
 }
 .site {
     background: rgb(233, 228, 247);
