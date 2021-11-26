@@ -181,7 +181,7 @@ article h1 {
 }
 .location p {
     display:flex;
-    
+    padding-left: 50px;
 }
 .margin {
 padding-left: 400px;
