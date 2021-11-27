@@ -179,10 +179,15 @@ article h1 {
     display: flex;
     max-width: 1100px;
 }
-.location p {
+.margin1 {
    max-width: 1100px;
    padding-left: 500px;
-    font-size: 60px;
+   font-size: 60px;
+}
+
+.margin2 {
+   max-width: 1100px;
+   padding-left: 500px;
 }
 
 .site {
