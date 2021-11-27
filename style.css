@@ -165,7 +165,9 @@ article h1 {
 .explain {
     width:1100px;
     position: relative;
-    font-size: 20px;
+}
+.explain p {
+    font-size: 30px;
 }
 .info {
     padding-top: 10px;
