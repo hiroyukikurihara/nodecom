@@ -127,7 +127,6 @@ img {
     max-height: 1600px;
     max-width: 1100px;
     
-    
 }
 .item img {
     height: 250px;
@@ -157,10 +156,12 @@ a:hover {
 }
 article h1 {
     font-size: 30px;
-
 }
 article h1 {
     line-height: 0;
+}
+.kufu {
+    padding-top: 30px;
 }
 .explain {
     width:1100px;
