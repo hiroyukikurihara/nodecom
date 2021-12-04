@@ -4,6 +4,9 @@ body {
     margin:0;
     
 }
+.background {
+    background: url(https://github.com/hiroyukikurihara/nodecom/blob/main/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9/1.jpg?raw=true");
+}
 a {
     text-decoration: none;
 }
