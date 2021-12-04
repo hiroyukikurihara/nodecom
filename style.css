@@ -5,7 +5,10 @@ body {
     
 }
 .background {
-    background: url(https://github.com/hiroyukikurihara/nodecom/blob/main/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9/1.jpg?raw=true");
+    background-image: url(https://github.com/hiroyukikurihara/nodecom/blob/main/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9/1.jpg?raw=true");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
 a {
     text-decoration: none;
