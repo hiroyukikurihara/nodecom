@@ -98,7 +98,9 @@ li {
 /*経歴ファイル*/
 .keireki {
     padding-top: 30px;
-    font-size: 80px;
+}
+.keireki h2 {
+    font-size: 40px;
 }
 .career {
     margin-left: 250px;]
