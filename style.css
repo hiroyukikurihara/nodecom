@@ -97,10 +97,12 @@ li {
 }
 /*経歴ファイル*/
 .keireki {
-    padding-top: 30 0px;
+    padding-top: 30px;
+    font-size: 80px;
 }
 .career {
-    margin-left: 250px;
+    margin-left: 250px;]
+    font-size: 50px;
 }
 
 /*作品ファイル*/
