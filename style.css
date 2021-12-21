@@ -170,7 +170,9 @@ article h1 {
 .kufu {
     padding-top: 60px;
 }
-
+.kufu p {
+    font-size: 20px;
+}
 .explain {
     width:1100px;
     position: relative;
