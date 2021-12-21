@@ -106,8 +106,10 @@ li {
     font-size: 40px;
 }
 .career {
-    margin-left: 250px;]
-    font-size: 50px;
+    margin-left: 250px;
+}
+.career p {
+    font-size: 20px;
 }
 
 /*作品ファイル*/
@@ -231,4 +233,4 @@ article h1 {
 .home {
     margin-top: 15%;
 }
-}
+
