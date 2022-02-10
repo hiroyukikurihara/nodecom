@@ -1,10 +1,10 @@
 
     $(function() {
-    $("#background").fadeIn("slow");
+    $("div").fadeIn("slow");
     });
 
     $(function() {
-      $(".home").on("click",function() {
+      $("li").on("click",function() {
         alert("アラート！！")
     });
         });
