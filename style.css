@@ -239,9 +239,9 @@ summary {
     cursor: pointer;
     }
 details {
-    margin: 14px;
-    padding: 10px;
+    margin: 40px;
+    padding: 40px;
     }
 details[open] {
-    background: #c3f6ff;
+    background: #fff;
     }
