@@ -1,9 +1,9 @@
 
-    $(function () {
+    $(function() {
     $("#background").fadeIn("slow");
     });
 
-    $(functionk() {
+    $(function() {
       $(".li").on("click",function() {
         arelt("アラート！！")
     });
