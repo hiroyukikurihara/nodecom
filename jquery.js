@@ -5,7 +5,7 @@
 
     $(function() {
       $(".home").on("click",function() {
-        arelt("アラート！！")
+        alert("アラート！！")
     });
         });
 
