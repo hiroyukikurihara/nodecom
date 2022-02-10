@@ -235,4 +235,13 @@ article h1 {
 .home {
     margin-top: 15%;
 }
-
+summary {
+    cursor: pointer;
+    }
+details {
+    margin: 14px;
+    padding: 10px;
+    }
+details[open] {
+    background: #c3f6ff;
+    }
