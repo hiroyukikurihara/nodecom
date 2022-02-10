@@ -23,17 +23,16 @@
     
   <script>
      window.onload =function() {
-          alert("HELLO");
+          alert("HELLO!");
      };
   </script>
-    
-    <script>
-     window.onload =function() {
-          $("div").fadeIn(3000);
-     };
-  </script>
-    
-  
+  <script>
+        $(function() {
+    $(".home").on("click",function() {
+    $("div").fadeIn(3000);
+    });
+  });
+  </script>  
 
     
 </body>
