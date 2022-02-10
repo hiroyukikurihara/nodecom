@@ -4,7 +4,7 @@
     });
 
     $(function() {
-      $(".li").on("click",function() {
+      $(".home").on("click",function() {
         arelt("アラート！！")
     });
         });
