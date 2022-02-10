@@ -2,10 +2,11 @@
     $(function () {
     $("#background").fadeIn("slow");
     });
-    </script>
-    <script>
+</script>
+ <script>
     $(functionk() {
       $(".li").on("click",function() {
         arelt("アラート！！")
     });
         });
+</script>
